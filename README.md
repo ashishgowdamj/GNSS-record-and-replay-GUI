@@ -1,4 +1,4 @@
-🔎 What is this software?
+What is this software?
 	•	GNSS (Global Navigation Satellite System): GPS, GLONASS, Galileo, etc. are examples.
 	•	This software is used to record GNSS signals (satellite navigation signals) and then replay them for testing purposes.
 	•	It works with hardware like AD9361 SDR (Software Defined Radio) to capture and transmit GNSS signals.
@@ -6,7 +6,7 @@
 
 ⸻
 
-🖥️ Software Tabs and Functions
+Software Tabs and Functions
 	1.	Connect
 	•	Choose COM port and baudrate to connect to the GNSS hardware (AD9361, RTCM).
 	•	Select number of channels (Single/Dual).
@@ -42,7 +42,7 @@
 
 ⸻
 
-⚡ Typical Use Case
+Typical Use Case
 	•	A researcher wants to test a GPS receiver:
 	1.	Record satellite signals from a real location.
 	2.	Replay them later in the lab to check how the GPS device behaves.
@@ -50,7 +50,7 @@
 
 ⸻
 
-✅ In short:
+In short:
 This is a GNSS testing tool that helps record satellite navigation signals, store them, and replay them for simulation, debugging, or research.
 
 
