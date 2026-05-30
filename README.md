@@ -53,13 +53,9 @@
 ✅ In short:
 This is a GNSS testing tool that helps record satellite navigation signals, store them, and replay them for simulation, debugging, or research.
 
-<img width="565" height="516" alt="Screenshot 2025-08-24 at 1 49 08 PM" src="https://github.com/user-attachments/assets/d7ff0f27-30eb-4608-84be-e223b028b8b7" />
-<img width="564" height="517" alt="Screenshot 2025-08-24 at 1 49 00 PM" src="https://github.com/user-attachments/assets/8b3cc806-f866-4afe-9eab-cca927f6351d" />
+
 <img width="565" height="515" alt="Screenshot 2025-08-24 at 1 48 52 PM" src="https://github.com/user-attachments/assets/b5687afd-876e-4c32-b821-bfb401b88fc0" />
 
-<img width="564" height="514" alt="Screenshot 2025-08-24 at 1 48 35 PM" src="https://github.com/user-attachments/assets/d7227986-f0a7-423a-9d00-69604211d4a5" />
-<img width="564" height="516" alt="Screenshot 2025-08-24 at 1 36 53 PM" src="https://github.com/user-attachments/assets/f601d0d2-1850-4be0-b83e-3ede33d70775" />
-<img width="567" height="517" alt="Screenshot 2025-08-24 at 1 36 33 PM" src="https://github.com/user-attachments/assets/a9e580a1-f748-4177-afb7-7b0e584bd64f" />
 
 
 
